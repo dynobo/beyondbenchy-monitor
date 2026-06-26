@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 56,
-    "timeWeek": 56,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beyondbenchy.com.ico",
     "slug": "beyond-benchy",
     "status": "down",
-    "uptime": "0.88%",
-    "uptimeDay": "0.88%",
-    "uptimeWeek": "0.88%",
-    "uptimeMonth": "0.88%",
-    "uptimeYear": "0.88%",
-    "time": 574,
-    "timeDay": 574,
-    "timeWeek": 574,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "uptime": "0.81%",
+    "uptimeDay": "0.81%",
+    "uptimeWeek": "0.81%",
+    "uptimeMonth": "0.81%",
+    "uptimeYear": "0.81%",
+    "time": 544,
+    "timeDay": 544,
+    "timeWeek": 544,
+    "timeMonth": 544,
+    "timeYear": 544,
     "dailyMinutesDown": {
-      "2026-06-26": 25
+      "2026-06-26": 27
     }
   }
 ]
