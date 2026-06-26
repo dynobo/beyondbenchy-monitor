@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beyondbenchy.com.ico",
     "slug": "beyond-benchy",
     "status": "down",
-    "uptime": "1.58%",
-    "uptimeDay": "1.58%",
-    "uptimeWeek": "1.58%",
-    "uptimeMonth": "1.58%",
-    "uptimeYear": "1.58%",
-    "time": 657,
-    "timeDay": 657,
-    "timeWeek": 657,
-    "timeMonth": 657,
-    "timeYear": 657,
+    "uptime": "1.13%",
+    "uptimeDay": "1.13%",
+    "uptimeWeek": "1.13%",
+    "uptimeMonth": "1.13%",
+    "uptimeYear": "1.13%",
+    "time": 564,
+    "timeDay": 564,
+    "timeWeek": 564,
+    "timeMonth": 564,
+    "timeYear": 564,
     "dailyMinutesDown": {
-      "2026-06-26": 14
+      "2026-06-26": 20
     }
   }
 ]
