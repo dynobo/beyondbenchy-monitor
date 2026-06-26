@@ -1,22 +1,40 @@
 [
   {
+    "name": "Google",
+    "url": "https://www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "slug": "google",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 56,
+    "timeDay": 56,
+    "timeWeek": 56,
+    "timeMonth": 56,
+    "timeYear": 56,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "BeyondBenchy",
     "url": "https://beyondbenchy.com",
     "icon": "https://icons.duckduckgo.com/ip3/beyondbenchy.com.ico",
     "slug": "beyond-benchy",
     "status": "down",
-    "uptime": "1.13%",
-    "uptimeDay": "1.13%",
-    "uptimeWeek": "1.13%",
-    "uptimeMonth": "1.13%",
-    "uptimeYear": "1.13%",
-    "time": 564,
-    "timeDay": 564,
-    "timeWeek": 564,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "uptime": "0.91%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.91%",
+    "uptimeMonth": "0.91%",
+    "uptimeYear": "0.91%",
+    "time": 574,
+    "timeDay": 574,
+    "timeWeek": 574,
+    "timeMonth": 574,
+    "timeYear": 574,
     "dailyMinutesDown": {
-      "2026-06-26": 20
+      "2026-06-26": 25
     }
   }
 ]
