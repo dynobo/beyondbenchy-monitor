@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 68,
-    "timeWeek": 73,
-    "timeMonth": 75,
-    "timeYear": 75,
-    "dailyMinutesDown": {}
+    "time": 104,
+    "timeDay": 288,
+    "timeWeek": 127,
+    "timeMonth": 104,
+    "timeYear": 104,
+    "dailyMinutesDown": {
+      "2026-07-08": 0
+    }
   },
   {
     "name": "BeyondBenchy",
@@ -34,7 +36,7 @@
     "timeMonth": 583,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2026-07-08": 76,
+      "2026-07-08": 1298,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 1440,
